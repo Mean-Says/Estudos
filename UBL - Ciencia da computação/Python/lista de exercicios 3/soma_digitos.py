@@ -5,7 +5,7 @@ while numero != 0 :
     y = numero % 10
     numero = (numero) // 10
     soma = soma + y 
-print("A soma dos numeros é", soma)
+print(soma)
 
 
     
